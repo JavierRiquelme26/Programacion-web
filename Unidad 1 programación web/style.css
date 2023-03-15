@@ -1,0 +1,25 @@
+/* No incluir etiqueta style*/
+
+body {
+    background-color: #989cd3;
+}
+
+h1 {
+    color: white; 
+    text-align: center;
+    text-decoration: underline;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+p{
+    color: red;
+    font-size: 30px;
+    text-align: justify;
+}
+
+h3{
+
+    color: green;
+    background: white;
+    text-align: center;
+}
